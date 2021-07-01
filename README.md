@@ -14,5 +14,5 @@ Python and Python libraries
 ## Support and contact details
 For more information call me at 2547456345890
 
-Copyright (c) {year} **{List of contributors or company name}**
+Copyright (c) 2021 **Greg Katono**
   
